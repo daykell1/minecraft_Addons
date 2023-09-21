@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "kf:emeraldpopsicle",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "kf:emeraldpopsicle",
+      "minecraft:use_animation": "drink",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

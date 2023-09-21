@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "strawberryicecream_4308c10b"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      " C ",
+      " D "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:snowball",
+        "data": 0
+      },
+      "B": {
+        "item": "kf:biodegradablestraw",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:dye",
+        "data": 9
+      },
+      "D": {
+        "item": "kf:icecreamcone",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:strawberryicecream",
+      "count": 1
+    }
+  }
+}

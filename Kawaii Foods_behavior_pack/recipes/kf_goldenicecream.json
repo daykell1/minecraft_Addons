@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "goldenicecream_0d0f792d"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      " C ",
+      " D "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:snowball",
+        "data": 0
+      },
+      "B": {
+        "item": "kf:biodegradablestraw",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:gold_ingot",
+        "data": 0
+      },
+      "D": {
+        "item": "kf:icecreamcone",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:goldenicecream",
+      "count": 1
+    }
+  }
+}

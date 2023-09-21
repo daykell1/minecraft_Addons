@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "coppericecream_2b9bb7b0"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      " C ",
+      " D "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:snowball",
+        "data": 0
+      },
+      "B": {
+        "item": "kf:biodegradablestraw",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:copper_ingot",
+        "data": 0
+      },
+      "D": {
+        "item": "kf:icecreamcone",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:coppericecream",
+      "count": 1
+    }
+  }
+}

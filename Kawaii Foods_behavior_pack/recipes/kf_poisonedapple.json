@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "poisonedapple_1e4e420f"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B",
+      "C"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:apple",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:crying_obsidian",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:poisonedapple",
+      "count": 1
+    }
+  }
+}

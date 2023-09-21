@@ -1,0 +1,76 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 5,
+        "max": 15
+      },
+      "entries": [
+        {
+          "type": "item",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 3,
+                "max": 9
+              }
+            }
+          ],
+          "name": "minecraft:leather"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:leather_chestplate"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:leather_boots"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 12
+              }
+            }
+          ],
+          "name": "minecraft:bread"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:leather_leggings"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:saddle"
+        },
+        {
+          "type": "item",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 6
+              }
+            }
+          ],
+          "name": "minecraft:emerald"
+        }
+      ]
+    }
+  ]
+}

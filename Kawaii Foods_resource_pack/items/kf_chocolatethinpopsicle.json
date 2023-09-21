@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "kf:chocolatethinpopsicle",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "kf:chocolatethinpopsicle",
+      "minecraft:use_animation": "eat",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

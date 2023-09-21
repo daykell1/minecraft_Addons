@@ -1,0 +1,77 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 10,
+        "max": 25
+      },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 5,
+                "max": 12
+              }
+            }
+          ],
+          "name": "minecraft:map"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 15,
+                "max": 20
+              }
+            }
+          ],
+          "name": "minecraft:paper"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:compass"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 15
+              }
+            }
+          ],
+          "name": "minecraft:bread"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 8,
+                "max": 15
+              }
+            },
+            {
+              "function": "set_data",
+              "data": 0
+            }
+          ],
+          "name": "minecraft:sapling"
+        }
+      ]
+    }
+  ]
+}

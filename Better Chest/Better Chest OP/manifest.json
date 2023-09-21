@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": " this is Addon is very good for the world in Minecraft by  LanDay ",
+    "name": "better Chest triple",
+    "uuid": "e8371819-48f1-4637-afe7-1adf94582874",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": " this is Addon is very good for the world in Minecraft by  LanDay ",
+      "type": "data",
+      "uuid": "cf4fcfab-5990-4d7e-87a9-cac268da6e8c",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

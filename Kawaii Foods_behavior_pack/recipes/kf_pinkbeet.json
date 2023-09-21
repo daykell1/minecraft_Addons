@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pinkbeet_aceeff61"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:dye",
+        "data": 9
+      },
+      "B": {
+        "item": "minecraft:beetroot",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:pinkbeet",
+      "count": 1
+    }
+  }
+}

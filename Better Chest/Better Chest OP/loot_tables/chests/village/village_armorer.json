@@ -1,0 +1,48 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 15,
+        "max": 27
+      },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 12
+              }
+            }
+          ],
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 15,
+                "max": 20
+              }
+            }
+          ],
+          "name": "minecraft:bread"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_helmet"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emerald"
+        }
+      ]
+    }
+  ]
+}

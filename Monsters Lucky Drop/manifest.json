@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "In-game monsters now drop random minecraft items when they die. by winnie",
+    "name": "Monsters Lucky Drop",
+    "uuid": "d16bc079-a4f6-4a31-8bdb-b14abc5da69d",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "In-game monsters now drop random minecraft items when they die. by winnie",
+      "type": "data",
+      "uuid": "d4575419-e49b-49e4-8d39-1cf516de7f59",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

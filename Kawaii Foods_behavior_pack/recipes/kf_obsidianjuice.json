@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "obsidianjuice_d46d6ced"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:crying_obsidian",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:potion",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:obsidianjuice",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "kf:redstonejuice",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "kf:redstonejuice",
+      "minecraft:use_animation": "drink",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

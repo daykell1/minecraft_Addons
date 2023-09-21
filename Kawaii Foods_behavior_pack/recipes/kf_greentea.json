@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "greentea_576952a0"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AB ",
+      " C "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat_seeds",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 2
+      },
+      "C": {
+        "item": "minecraft:potion",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:greentea",
+      "count": 1
+    }
+  }
+}
