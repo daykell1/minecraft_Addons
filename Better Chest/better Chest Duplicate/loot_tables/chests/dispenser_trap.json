@@ -1,0 +1,26 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 5,
+        "max": 5
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:arrow",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 14
+              }
+            }
+          ],
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "redstonesoup_fb61aed0"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " A ",
+      "BC "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:brown_mushroom",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:redstone",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:bowl",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:redstonesoup",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "vegetablessoup_4b1d42f8"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABC",
+      " D ",
+      " E "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:apple",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:wheat",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:wheat_seeds",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:brown_mushroom",
+        "data": 0
+      },
+      "E": {
+        "item": "minecraft:bowl",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:vegetablessoup",
+      "count": 1
+    }
+  }
+}

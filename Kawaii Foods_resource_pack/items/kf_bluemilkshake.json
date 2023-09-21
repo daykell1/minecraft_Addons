@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "kf:bluemilkshake",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "kf:bluemilkshake",
+      "minecraft:use_animation": "drink",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

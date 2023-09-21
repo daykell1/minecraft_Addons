@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "redstoneicecream_9a73bfb4"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      " C ",
+      " D "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:snowball",
+        "data": 0
+      },
+      "B": {
+        "item": "kf:biodegradablestraw",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:redstone",
+        "data": 0
+      },
+      "D": {
+        "item": "kf:icecreamcone",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:redstoneicecream",
+      "count": 1
+    }
+  }
+}

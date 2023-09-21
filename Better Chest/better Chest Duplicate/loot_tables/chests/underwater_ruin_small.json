@@ -1,0 +1,91 @@
+{
+    "pools": [
+        {
+            "rolls": {
+                "min": 6,
+                "max": 10
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:coal",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 5,
+                                "max": 8
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:stone_axe",
+                    "weight": 10
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:rotten_flesh",
+                    "weight": 10
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:emerald",
+                    "weight": 10
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:wheat",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 5,
+                                "max": 6
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rolls": 5,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:leather_chestplate",
+                    "weight": 10
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:golden_helmet",
+                    "weight": 10
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:fishing_rod",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:map",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "exploration_map",
+                            "destination": "buriedtreasure"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

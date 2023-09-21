@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "seaweedorigini_fc63278a"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B",
+      "C"
+    ],
+    "key": {
+      "B": {
+        "item": "kf:onigiri",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:seagrass",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:seaweedorigini",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pumpkindonut_9eb1302d"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDC"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:cookie",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:wheat",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:sugar",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:bucket",
+        "data": 1
+      }
+    },
+    "result": {
+      "item": "kf:pumpkindonut",
+      "count": 1
+    }
+  }
+}

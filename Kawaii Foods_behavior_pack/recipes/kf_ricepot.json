@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "ricepot_784d4ce4"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B",
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "kf:onigiri",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "kf:ricepot",
+      "count": 1
+    }
+  }
+}

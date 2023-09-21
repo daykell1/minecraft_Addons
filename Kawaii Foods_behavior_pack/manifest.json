@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add more foods for your minecraft by Landay",
+    "name": "Kawaii Foods",
+    "uuid": "9a5478d9-e940-412b-b11f-7dfd342e4b85",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add more foods for your minecraft by Landay",
+      "type": "data",
+      "uuid": "d7545827-04b0-4c44-803c-2618049b53fe",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "087388db-f724-44c0-a566-18f282a2f0da",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
